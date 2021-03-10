@@ -1,1 +1,1 @@
-# aws_sns_nodejs
+# SMS Service using AWS SNS and NodeJS
